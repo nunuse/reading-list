@@ -1,0 +1,21 @@
+#+BEGIN_COMMENT
+.. title: Barking Up the Wrong Tree
+.. slug: barking-up-the-wrong-tree
+.. date: 2018-07-22 16:04:10 UTC-07:00
+.. tags: psychology improvement
+.. category: improvement
+.. link: 
+.. description: Notes on Eric Barker's "Barking Up the Wrong Tree"
+.. type: text
+#+END_COMMENT
+
+* What really produces success?
+* Should we play it safe and do what we're told if we want to succeed?
+* Do nice guys finish last?
+* Do quitters never win and winners never quit?
+* It's not what you know, it's who you know (unless it really is what you know)
+* Believe in yourself... sometimes
+* Work, work, work... or work-life balance?
+* What makes a successful life?
+* Sources
+  - Barker, Eric. Barking up the Wrong Tree: The Surprising Science behind Why Everything You Know about Success Is (Mostly) Wrong. First edition. New York, NY: HarperOne, 2017.
