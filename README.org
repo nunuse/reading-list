@@ -1,0 +1,3 @@
+#+TITLE: Some Reading Notes
+
+This is just some notes I'm keeping on books as I read them. I used to keep them in Dropbox (when I kept them at all) but I thought I'd try and be more systematic about it. The rendered site is [[https://necromuralist.github.io/reading-list/][here on github-pages]].
