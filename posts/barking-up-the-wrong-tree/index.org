@@ -10,7 +10,45 @@
 #+END_COMMENT
 
 * What really produces success?
+  The introduction opens with some information about a record-holder in the Race Across America, [[https://en.wikipedia.org/wiki/Jure_Robi%C4%8D][Jure Robic]], who succeeded because of what might be seen as a mental illness. The point is that the conventional wisdom of how to be successful is often wrong. Instead of relying on platitudes, the author suggests that we should use what research has found to guide us on how to be more successful.
 * Should we play it safe and do what we're told if we want to succeed?
+** On Valedictorians
+    - High School success predicts college success
+    - College success predicts professional success
+    - College success doesn't predict exceptional success, just reasonable success
+    - Valedictorians almost never reach the top of their field - "they settle into the system instead of shaking it up" (Karen Arnold)
+    - School rewards meeting expectations and generalization, not excelling at any one area
+** Filtered and Unfiltered Leaders
+   - Most leaders rise up through the ranks - they are pre-filtered and will do what is expected of them
+   - Some leaders get in by a chance of history, and they tend to be the ones we remember as great (or horrible), because they don't do what the consensus expects
+   - The unfiltered leaders are great or horrible based on whether the circumstances favor their idiosyncracies or not
+** Orchid Children and Intensifiers
+    - The same genes that lead to bad outcomes (e.g. alcoholism) can also lead to unusually good ones depending on the person's upbringing
+    - Some genes seem to /intensify/ traits based on the situation, rather than dictate what they will be
+    - [[http://www.berkeleywellness.com/healthy-mind/stress/article/understanding-orchid-child][Understanding the Orchid Child]] (Berkeley Wellness)
+    - [[https://www.theatlantic.com/magazine/archive/2009/12/the-science-of-success/307761/][The Science of Success]] (The Atlantic)
+    - Dandelions: They will come out the same in pretty much any circumstance
+    - Orchids: They are sensitive to their settings
+*** DRD4-7R
+    - abused or neglected children with this chromosome tend to become alcoholics and bullies
+    - those raised with good parenting tended to be unusually generous
+*** CHRM2
+    - poor parenting produces delinquents
+    - good parenting produces unusually successful adults
+*** 5-HTTLPR
+    - poor parenting produces cheaters
+    - good parenting produces rule-followers
+** Hopeful Monsters
+   - Nature produces 'freaks' because in the right circumstances they can have advantages over the 'normal'
+** Know Thyself
+   - whether you are a conformist or a hopeful monster you are unlikely to change, so change your circumstances to favor who you are
+   - Feedback Analysis (Peter Drucker): Anytime you take on a project write down what you think will happen then when it's over write down what actually happen. Over time you'll figure out what works for you and what doesn't. /Sounds like the NPR/Scientific method/.
+     + /What did you think would happen?/
+     + /What actually happened?/
+     + /Why do you think it happened the way it did?/
+** Choose the right pond
+   - Whether you succeed or fail will depend on whether your context supports your particular traits
+   - Once you know who you are, pick a context that supports you, don't try and conform to a place you don't belong (because you never will)
 * Do nice guys finish last?
 * Do quitters never win and winners never quit?
 * It's not what you know, it's who you know (unless it really is what you know)

@@ -7,34 +7,46 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://necromuralist.github.io/reading-list/</loc>
-  <lastmod>2018-07-23T23:30:00Z</lastmod>
+  <lastmod>2018-07-22T23:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/2018/</loc>
-  <lastmod>2018-07-23T23:30:00Z</lastmod>
+  <lastmod>2018-07-22T23:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/archive.html</loc>
-  <lastmod>2018-07-23T23:53:00Z</lastmod>
+  <lastmod>2018-07-24T15:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/categories/</loc>
-  <lastmod>2018-07-23T23:30:00Z</lastmod>
+  <lastmod>2018-07-24T15:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://necromuralist.github.io/reading-list/categories/biography-behavioralpsychology/</loc>
+  <lastmod>2018-07-24T15:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://necromuralist.github.io/reading-list/categories/cat_biography/</loc>
+  <lastmod>2018-07-24T15:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/categories/cat_improvement/</loc>
-  <lastmod>2018-07-23T23:30:00Z</lastmod>
+  <lastmod>2018-07-22T23:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/categories/psychology-improvement/</loc>
-  <lastmod>2018-07-23T23:30:00Z</lastmod>
+  <lastmod>2018-07-22T23:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/posts/barking-up-the-wrong-tree/</loc>
-  <lastmod>2018-07-23T23:30:00Z</lastmod>
+  <lastmod>2018-07-22T23:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/posts/notes-on-the-elements-of-data-analytic-style/</loc>
-  <lastmod>2018-07-23T23:58:00Z</lastmod>
+  <lastmod>2018-07-24T15:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://necromuralist.github.io/reading-list/posts/the-undoing-project/</loc>
+  <lastmod>2018-07-24T15:04:00Z</lastmod>
  </url>
 </urlset>
