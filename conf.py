@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Cloistered Monkey"  # (translatable)
-BLOG_TITLE = "Notes on the Strip"  # (translatable)
+BLOG_TITLE = "Reading Notes"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://necromuralist.github.io/reading-list/"
@@ -26,7 +26,7 @@ SITE_URL = "https://necromuralist.github.io/reading-list/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "necromuralist@protonmail.com"
-BLOG_DESCRIPTION = "Notes books I've read."  # (translatable)
+BLOG_DESCRIPTION = "Notes on books I've read."  # (translatable)
 
 # Nikola is multilingual!
 #
