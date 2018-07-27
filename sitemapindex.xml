@@ -18,15 +18,23 @@
   <lastmod>2018-07-25T02:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://necromuralist.github.io/reading-list/categories/cat_textprocessing.xml</loc>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://necromuralist.github.io/reading-list/categories/nltk-textprocessing.xml</loc>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://necromuralist.github.io/reading-list/categories/psychology-improvement.xml</loc>
   <lastmod>2018-07-25T02:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://necromuralist.github.io/reading-list/rss.xml</loc>
-  <lastmod>2018-07-25T02:22:00Z</lastmod>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://necromuralist.github.io/reading-list/sitemap.xml</loc>
-  <lastmod>2018-07-25T02:22:00Z</lastmod>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -1,0 +1,31 @@
+#+BEGIN_COMMENT
+.. title: Python 3 Text Processing with NLTK 3 Cookbook
+.. slug: python-3-text-processing-with-nltk-3-cookbook
+.. date: 2018-07-26 11:47:25 UTC-07:00
+.. tags: nltk textprocessing
+.. category: textprocessing
+.. link: 
+.. description: Notes on the NLTK 3 Cookbook.
+.. type: text
+#+END_COMMENT
+
+* How do you tokenize text and what is WordNet?
+** How do you tokenize text into sentences?
+** How do you tokenize sentences into words?
+** How do you tokenize sentences using regular expressions?
+** How do you train a sentence tokenizer?
+** How do you filter stopwords?
+** What are Synsets and how do you use them?
+** What are lemmas and synonyms and how do you use them?
+** How do you calculate similarity using WordNet Synsets?
+** Hod do you discover word Collocations?
+* How do you replace and correct words?
+* How do you create a custom corpora?
+* What is part-of-speech tagging and how do you do it?
+* How do you extract chunks of text?
+* How do you transform chunks and trees?
+* How do you classify text?
+* How do you used distributed processing to handle large data sets?
+* How do you parse specific data types?
+* Sources
+  - 1. Perkins J. Python 3 text processing with NLTK 3 cookbook: over 80 practical recipes on natural language processing techniques using Python’s NLTK 3.0. 2. ed. Birmingham: Packt Publ; 2014. 288 p. (Packt open source). 

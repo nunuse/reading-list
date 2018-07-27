@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/archive.html</loc>
-  <lastmod>2018-07-25T02:22:00Z</lastmod>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/categories/</loc>
-  <lastmod>2018-07-25T02:22:00Z</lastmod>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/categories/biography-behavioralpsychology/</loc>
@@ -34,6 +34,14 @@
   <lastmod>2018-07-23T23:30:00Z</lastmod>
  </url>
  <url>
+  <loc>https://necromuralist.github.io/reading-list/categories/cat_textprocessing/</loc>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://necromuralist.github.io/reading-list/categories/nltk-textprocessing/</loc>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://necromuralist.github.io/reading-list/categories/psychology-improvement/</loc>
   <lastmod>2018-07-23T23:30:00Z</lastmod>
  </url>
@@ -44,6 +52,10 @@
  <url>
   <loc>https://necromuralist.github.io/reading-list/posts/notes-on-the-elements-of-data-analytic-style/</loc>
   <lastmod>2018-07-23T23:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://necromuralist.github.io/reading-list/posts/python-3-text-processing-with-nltk-3-cookbook/</loc>
+  <lastmod>2018-07-27T02:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://necromuralist.github.io/reading-list/posts/the-undoing-project/</loc>

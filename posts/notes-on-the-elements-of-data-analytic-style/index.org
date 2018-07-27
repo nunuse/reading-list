@@ -71,9 +71,21 @@ endif
 * What is tidy data?
   [[https://en.wikipedia.org/wiki/Tidy_data][Tidy Data]] is a concept characterized by [[http://hadley.nz/][Hadley Wickham]] in a paper called, appropriately enough, [[https://www.jstatsoft.org/article/view/v059i10][Tidy Data]]. It is a way of organizing the data to makey it easy to share, use in computation, and analyze.
 ** What makes up a data set?
+   These are the components of a dataset that has been processed:
+
+   1. The raw data
+   2. A tidy data set
+   3. A code book that describes each variable and its values in the tidy data set
+   4. An explicit and exact recipe to go from the raw data to a tidy data set followed by a code book
 ** What is Raw Data?
+   This is data that you haven't changed in any way, exactly as it was recorded.
 ** Why is Raw Data relative?
-** Okay, so how do you tidy the data?
+   Sometimes the raw data needs to have at least some processing to be useful. If it's in a format you can't interpret, for instance, you won't be able to work with it until it has had at least some pre-processing. You want it to be as raw as possible, but it still has to be usable.
+** What are the four priciples of Tidy Data?
+   1. Each variable should be in one column
+   2. Each observation should be in a different row
+   3. There should be one table for each "type" of variable
+   4. If you have multiple tables, they should include a column in the table that allows you to link them
 ** What should the first row in the data be?
 ** How should you share it if you are using Excel?
 ** What is a code book?
